@@ -1,5 +1,6 @@
 export default function loadAssets() {
 
-    loadSprite('harold', 'sprites/harold.jpg');
+    loadSprite('placeholder','/sprites/placeholder.png');
+
 
 }
