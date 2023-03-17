@@ -8,7 +8,7 @@
   },
   "scripts": {
 
-    "build": "echo 'Building..' &&npx webpack",
+    "build": "echo 'Building..\n' &&npx webpack",
     "serve": "npx serve"
 
   }
